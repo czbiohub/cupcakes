@@ -50,7 +50,7 @@
 
 ## 2019-04-18
 
-- **Shalin Mehta**: *Microscopy data analysis tutorial*
+- **Shalin Mehta**: *Microscopy data analysis tutorial - RESCHEDULED*
 
 ## 2019-04-25
 
@@ -58,7 +58,7 @@
 
 ## 2019-05-02
 
-- **Carly Cheung**: *Something you spent hours figuring out this week*
+- **Office Hours**: *Something you spent hours figuring out this week*
 
 ## 2019-05-09
 
@@ -66,39 +66,39 @@
 
 ## 2019-05-16
 
-- **Amy Lyden**: *Something you spent hours figuring out this week*
+- **Amy Lyden**: *Got Junk Sequences?: Designing gRNAs for DASH using DASHit*
 
 ## 2019-05-23
 
-- **Office Hours**: *Something you spent hours figuring out this week*
+- **Carly Cheung**: *Lessons learned from learning python online*
 
 ## 2019-05-30
 
-- **Maira Phelps**: *Something you spent hours figuring out this week*
+- **Office Hours**: *Something you spent hours figuring out this week*
 
 ## 2019-06-06
 
-- **Office Hours**: *Something you spent hours figuring out this week*
+- **Phoenix Logan**: *Something you spent hours figuring out this week*
 
 ## 2019-06-13
 
-- **Rene Sit**: *Something you spent hours figuring out this week*
+- **Office Hours**: *Something you spent hours figuring out this week*
 
 ## 2019-06-20
 
-- **Office Hours**: *Something you spent hours figuring out this week*
+- **Lucy Li**: *Bioinformatics tutorial practice for Uganda*
 
 ## 2019-06-27
 
-- **Saharai Caldera**: *Something you spent hours figuring out this week*
+- **Office Hours**: *Something you spent hours figuring out this week*
 
 ## 2019-07-04
 
-- **Office Hours**: *Something you spent hours figuring out this week*
+- **You?**: *Something you spent hours figuring out this week*
 
 ## 2019-07-11
 
-- **David Dynerman**: *Something you spent hours figuring out this week*
+- **Rene Sit**: *Something you spent hours figuring out this week*
 
 ## 2019-07-18
 
@@ -106,7 +106,7 @@
 
 ## 2019-07-25
 
-- **Jack Kamm**: *Something you spent hours figuring out this week*
+- **Saharai Caldera**: *Something you spent hours figuring out this week*
 
 ## 2019-08-01
 
@@ -114,7 +114,7 @@
 
 ## 2019-08-08
 
-- **Bing Wu**: *Something you spent hours figuring out this week*
+- **David Dynerman**: *Something you spent hours figuring out this week*
 
 ## 2019-08-15
 
@@ -122,7 +122,7 @@
 
 ## 2019-08-22
 
-- **Eric Waltari**: *Something you spent hours figuring out this week*
+- **Jack Kamm**: *Something you spent hours figuring out this week*
 
 ## 2019-08-29
 
@@ -130,7 +130,7 @@
 
 ## 2019-09-05
 
-- **Kalani Ratnasiri**: *Something you spent hours figuring out this week*
+- **Bing Wu**: *Something you spent hours figuring out this week*
 
 ## 2019-09-12
 
@@ -138,7 +138,7 @@
 
 ## 2019-09-19
 
-- **Michelle Tan**: *Something you spent hours figuring out this week*
+- **Eric Waltari**: *Something you spent hours figuring out this week*
 
 ## 2019-09-26
 
@@ -146,7 +146,7 @@
 
 ## 2019-10-03
 
-- **Hera Canaj**: *Something you spent hours figuring out this week*
+- **Kalani Ratnasiri**: *Something you spent hours figuring out this week*
 
 ## 2019-10-10
 
@@ -154,7 +154,7 @@
 
 ## 2019-10-17
 
-- **Amy Kistler** ([@jamestwebber](https://github.com/jamestwebber)): *Something you spent hours figuring out this week*
+- **Michelle Tan** ([@jamestwebber](https://github.com/jamestwebber)): *Something you spent hours figuring out this week*
 
 ## 2019-10-24
 
@@ -162,7 +162,7 @@
 
 ## 2019-10-31
 
-- **Bryant Chhun**: *Something you spent hours figuring out this week*
+- **Hera Canaj**: *Something you spent hours figuring out this week*
 
 ## 2019-11-07
 
@@ -170,7 +170,7 @@
 
 ## 2019-11-14
 
-- **Greg Huber**: *Something you spent hours figuring out this week*
+- **Amy Kistler**: *Something you spent hours figuring out this week*
 
 ## 2019-11-21
 
@@ -178,7 +178,7 @@
 
 ## 2019-11-28
 
-- **James Webber**: *Something you spent hours figuring out this week*
+- **Bryant Chhun**: *Something you spent hours figuring out this week*
 
 ## 2019-12-05
 
@@ -186,12 +186,12 @@
 
 ## 2019-12-12
 
-- **You?**: *Something you spent hours figuring out this week*
+- **Greg Huber**: *Something you spent hours figuring out this week*
 
 ## 2019-12-19
 
-- **You?**: *Something you spent hours figuring out this week*
+- **Office Hours**: *Something you spent hours figuring out this week*
 
 ## 2019-12-26
 
-- **You?**: *Something you spent hours figuring out this week*
+- **James Webber**: *Something you spent hours figuring out this week*
