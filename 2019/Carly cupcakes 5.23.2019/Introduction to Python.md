@@ -1,19 +1,19 @@
 #Introduction to Python (Coursera version - Week 1)
 ##Starting with Python in Coursera 
 
-Course name: Pyton Programming: A Concise Introduction
+Course name: Python Programming: A Concise Introduction
 
 Taught by Professor Bill Boyd at Weslyan University
 
 https://www.coursera.org/learn/python-programming-introduction/home/welcome
 
 ###Format of class: 
-- Lessons separated into ~10 minute videos, where new fuctions are introduced, example codes are written, break down codes, and problems are given to perform (add file)
-- Homework assignment due each week, graded by autograder, able to resubmit if problem is wrong with unlimited tries (add file)
-- Discussion Forums - allows students to ask questions
+- Lessons separated into ~10 minute videos, where new fuctions are introduced, example codes are written, codes are broken down/explained, and problems are given to perform
+- Homework assignment due each week, graded by autograder, unlimited resubmission allowed
+- Discussion Forums for students to ask questions
 
 ###To do first:
-- Download Anaconda - https://www.anaconda.com/
+- Download Anaconda (https://www.anaconda.com/)
 - Launch Spyder
 
 ###Main Layout of Sypder:
@@ -23,7 +23,7 @@ https://www.coursera.org/learn/python-programming-introduction/home/welcome
 ###Download this .py file to follow along on Spyder:
 ADD FILE.
 
-We will use the .py file which has all the example code to help us write new codes. So we don't have to go back and forth to copy and paste.
+We will use the .py file which has all the example code to help us do the problems. So we don't have to go back and forth between .md and .py to copy and paste.
 
 ###Write code in Editor Window:
 	def function name():
@@ -40,8 +40,8 @@ These are not part of the function and are not executed.
 
 ###Key words in Python language
 - Don't use these words as your variable name in python
-- Key words in python have a certain meaning, they could be function names, methods names, etc.
-- Examples of key words: True, False, Print, Input, if, else, elif, except, or, while, import, assert
+- Key words in python have a certain meaning, they could be function names, method names, etc.
+- Examples of key words: true, false, print, input, if, else, elif, except, or, while, import, assert
 
 ###Load function:
 Click anywhere in the cell marked by #%%s and use the following keys to load function from Editor Window into Ipython Console
@@ -49,14 +49,14 @@ Click anywhere in the cell marked by #%%s and use the following keys to load fun
 - Command+Return (MAC)
 - Control+Enter (PC)
 
-###Run function in Python Console:
+###Run function in IPython Console:
 Type function name with ( ), but no colon, in Ipython console and press Enter to get the output
 
 ###In Ipython console, you can:
 1. Run function
-2. Perform arithmetic operations directly on numbers
+2. Perform arithmetic operations with numbers directly
 
-##The 'Print' function:
+##The 'Print' function
 
 	def hello():
     	""" prints hello, world """
@@ -64,7 +64,7 @@ Type function name with ( ), but no colon, in Ipython console and press Enter to
 
 If your print statement is too long and runs out of view on the page, add end="" at the end of the statement, and start a new print statement to finish the string. End="" prints nothing. 
 
-This allows the two statement to continue as a smooth sentence, instead of printing 2 lines (which is what happend when you use 2 print statements). 
+This allows the string to continue as a smooth sentence, instead of printing 2 strings (which is what happens when you use 2 print statements). 
 
 ####Exercise:
 Write a function 'def areatriangle(b,h)' to compute the area
@@ -97,7 +97,10 @@ Output should look like: The area of a triangle of base 3 and height 5 is 7.5
 
 ##Arithmetic Operations in Python
 
-+ + addition
++ = assignment of variable (aka. a = print("hi"))
++ == equality 
++ != not equal 
++ addition
 + - subtration
 + * multiplication
 + ** raised to the power
