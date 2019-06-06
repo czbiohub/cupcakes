@@ -1,0 +1,13 @@
+RAxML-NG v0.7.0 BETA (c) 2018 The Exelixis Lab
+
+This is a ready-to-use binary which should be compatible with most 
+recent macOS/OSX systems (tested with v10.11 El Capitan and v10.12 Sierra).
+
+Please type 
+
+  ./raxml-ng -h
+
+to see available commands and usage examples.
+
+For further info and updates, please visit: https://github.com/amkozlov/raxml-ng
+

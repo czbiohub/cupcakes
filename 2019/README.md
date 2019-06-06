@@ -78,7 +78,7 @@
 
 ## 2019-06-06
 
-- **Phoenix Logan**: *Something you spent hours figuring out this week*
+- **Phoenix Logan**: *Asynchronous Python Programming with asyncio*
 
 ## 2019-06-13
 
