@@ -106,7 +106,7 @@
 
 ## 2019-07-25
 
-- **You?**: *Something you spent hours figuring out this week*
+- **Regan Lamoureux**: *Python Classes for Beginners*
 
 ## 2019-08-01
 
