@@ -114,7 +114,7 @@
 
 ## 2019-08-08
 
-- **Lienna Chen**: *Basic image processing in Python and Jupyter Notebook*
+- **Lienna Chan**: *Basic image processing in Python and Jupyter Notebook*
 
 ## 2019-08-15
 
@@ -186,7 +186,7 @@
 
 ## 2019-12-12
 
-- **You?**: *Something you spent hours figuring out this week*
+- **Hera Canaj**: *Something you spent hours figuring out this week*
 
 ## 2019-12-19
 
