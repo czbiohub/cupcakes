@@ -114,7 +114,7 @@
 
 ## 2019-08-08
 
-- **You?**: *Something you spent hours figuring out this week*
+- **Lienna Chen**: *Basic image processing in Python and Jupyter Notebook*
 
 ## 2019-08-15
 
@@ -122,7 +122,7 @@
 
 ## 2019-08-22
 
-- **You?**: *Something you spent hours figuring out this week*
+- **Kalani Ratnasiri**: *Bowtie + Nextflow*
 
 ## 2019-08-29
 
@@ -134,7 +134,7 @@
 
 ## 2019-09-12
 
-- **You?**: *Something you spent hours figuring out this week*
+- **Office Hours**: *Something you spent hours figuring out this week*
 
 ## 2019-09-19
 
@@ -154,7 +154,7 @@
 
 ## 2019-10-17
 
-- **David Dynerman** ([@jamestwebber](https://github.com/jamestwebber)): *Something you spent hours figuring out this week*
+- **David Dynerman**: *Something you spent hours figuring out this week*
 
 ## 2019-10-24
 
@@ -186,7 +186,7 @@
 
 ## 2019-12-12
 
-- **Kalani Ratnasiri**: *Something you spent hours figuring out this week*
+- **You?**: *Something you spent hours figuring out this week*
 
 ## 2019-12-19
 
