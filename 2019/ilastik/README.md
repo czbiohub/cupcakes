@@ -29,7 +29,7 @@
 ## Reading
 
 - ilastik labelling best practices: https://blog.cellprofiler.org/2017/01/19/cellprofiler-ilastik-superpowered-segmentation/
-- Great visualization of random forests: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+- Great visualization of decision trees (the unit of Random Forests): http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 - UC Berkeley CS 189 (Intro to Machine Learning) notes on Random Forests: https://people.eecs.berkeley.edu/~jrs/189/lec/16.pdf 
 ---
 ## Similar Software:
