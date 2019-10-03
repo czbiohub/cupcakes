@@ -138,15 +138,15 @@
 
 ## 2019-09-19
 
-- **Michelle Tan**: *Something you spent hours figuring out this week*
+- **Office Hours**: *Something you spent hours figuring out this week*
 
 ## 2019-09-26
 
-- **Office Hours**: *Something you spent hours figuring out this week*
+- **Cancelled**: *Cancelled*
 
 ## 2019-10-03
 
-- **Saharai Caldera**: *Something you spent hours figuring out this week*
+- **Clarissa Vazquez**: *Single-cell RNA-seq Analysis Best Practices: A Case Study*
 
 ## 2019-10-10
 
@@ -154,7 +154,7 @@
 
 ## 2019-10-17
 
-- **You?**: *Something you spent hours figuring out this week*
+- **Michelle Tan**: *Something you spent hours figuring out this week*
 
 ## 2019-10-24
 
@@ -162,7 +162,7 @@
 
 ## 2019-10-31
 
-- **David Dynerman**: *Something you spent hours figuring out this week*
+- **Saharai Caldera**: *Something you spent hours figuring out this week*
 
 ## 2019-11-07
 
@@ -170,7 +170,7 @@
 
 ## 2019-11-14
 
-- **Jack Kamm**: *Something you spent hours figuring out this week*
+- **David Dynerman**: *Something you spent hours figuring out this week*
 
 ## 2019-11-21
 
@@ -178,7 +178,7 @@
 
 ## 2019-11-28
 
-- **Bing Wu**: *Something you spent hours figuring out this week*
+- **Jack Kamm**: *Something you spent hours figuring out this week*
 
 ## 2019-12-05
 
@@ -186,7 +186,7 @@
 
 ## 2019-12-12
 
-- **Eric Waltari**: *Something you spent hours figuring out this week*
+- **Bing Wu**: *Something you spent hours figuring out this week*
 
 ## 2019-12-19
 
@@ -194,4 +194,4 @@
 
 ## 2019-12-26
 
-- **Hera Canaj**: *Something you spent hours figuring out this week*
+- **Eric Waltari**: *Something you spent hours figuring out this week*
