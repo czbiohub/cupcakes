@@ -36,32 +36,15 @@ date,Nth thursday,Type,presenter,github_username,topic,Notes,Helpers,Bold = conf
 2019-09-19,3rd Thu,Office Hours?,Office Hours,,,,Ahmet Can Solak,Anthony Cesnik,Saba Nafees,
 2019-09-26,4th Thu,Cancelled,Cancelled,,Cancelled,,,,,
 2019-10-03,1st Thu,Tutorial,Clarissa Vazquez,,Single-cell RNA-seq Analysis Best Practices: A Case Study,,,,,
-2019-10-10,2nd Thu,Office Hours,Office Hours,,,,Lincoln Harris,Amy Lyden,Phoenix Logan,Olga + Saba
-2019-10-17,3rd Thu,Tutorial,Michelle Tan,,,,,,,
-2019-10-24,4th Thu,Office Hours,Office Hours,,,,Josh Batson,Jenny Vo-Phamhi,Giana Cirolia,Olga + Saba
-2019-10-31,5th Thu,Free,Saharai Caldera,,,,,,,
+2019-10-10,2nd Thu,Office Hours,Office Hours,,,,Sam Hao,Amy Lyden,Josh Batson,Olga + Saba
+2019-10-17,3rd Thu,Tutorial,,,,,,,,
+2019-10-24,4th Thu,Office Hours,Office Hours,,,,Phoenix Logan,,Giana Cirolia,Olga + Saba
+2019-10-31,5th Thu,Cancelled,Cancelled,Cancelled,,,,,,
 2019-11-07,1st Thu,Office Hours,Office Hours,,,,Michelle Tan,Shayan Hosseinzadeh,Lucy Li,Olga + Saba
-2019-11-14,2nd Thu,Tutorial,David Dynerman,,,,,,,
-2019-11-21,3rd Thu,Office Hours,Office Hours,,,,Hera Canaj,Pranathi Vemuri,Bryant Chuun,Olga + Saba
-2019-11-28,4th Thu,Tutorial,Jack Kamm,,,,,,,
-2019-12-05,1st Thu,Office Hours,Office Hours,,,,Ahmet Can Solak,Anthony Cesnik,,Olga + Saba
-2019-12-12,2nd Thu,Tutorial,Bing Wu,,,,,,,
-2019-12-19,3rd Thu,Office Hours,Office Hours,,,,Lincoln Harris,Amy Lyden,Phoenix Logan,Olga + Saba
-2019-12-26,4th Thu,Tutorial,Eric Waltari,,,,,,,
-,,Office Hours,Office Hours,,,,Josh Batson,Jenny Vo-Phamhi,Giana Cirolia,Olga
-,,Tutorial,Hera Canaj,,,,,,,
-,,Office Hours,Office Hours,,,,Michelle Tan,Lucy Li,Shayan Hosseinzadeh,Olga
-,,Tutorial,Rene Sit,,,,,,,
-,,Office Hours,Office Hours,,,,Hera Canaj,Pranathi Vemuri,Bryant Chuun,Olga
-,,Tutorial,Hera Canaj,,,,,,,
-,,Office Hours,Office Hours,,,,,,,
-,,Tutorial,Amy Kistler,,,,,,,
-,,Office Hours,Office Hours,,,,,,,
-,,Tutorial,Bryant Chhun,,,,,,,
-,,Office Hours,Office Hours,,,,,,,
-,,Tutorial,Greg Huber,,,,,,,
-,,Office Hours,Office Hours,,,,,,,
-,,Tutorial,James Webber,,,,,,,
-,,Office Hours,Office Hours,,,,,,,
-,,Tutorial,,,,,,,,
-,,Office Hours,,,,,,,,
+2019-11-14,2nd Thu,Tutorial,Cancelled,,,,,,,
+2019-11-21,3rd Thu,Tutorial,Cancelled,,,,,,,
+2019-11-28,4th Thu,Cancelled,Thanksgiving,Thanksgiving,,,,,,
+2019-12-05,1st Thu,Office Hours,Jack Kamm,,Differential RNA-seq analysis using limma in R,,Hera Canaj,Pranathi Vemuri,Bryant Chuun,Olga
+2019-12-12,2nd Thu,Tutorial,Office Hours,,,,,,,
+2019-12-19,3rd Thu,Office Hours,Cancelled,,,,Ahmet Can Solak,Anthony Cesnik,Lincoln Harris,Olga
+2019-12-26,4th Thu,Tutorial,Cancelled,,,,,,,

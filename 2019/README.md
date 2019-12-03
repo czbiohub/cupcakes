@@ -154,7 +154,7 @@
 
 ## 2019-10-17
 
-- **Michelle Tan**: *Something you spent hours figuring out this week*
+- **You?**: *Something you spent hours figuring out this week*
 
 ## 2019-10-24
 
@@ -162,7 +162,7 @@
 
 ## 2019-10-31
 
-- **Saharai Caldera**: *Something you spent hours figuring out this week*
+- **Cancelled** ([@Cancelled](https://github.com/Cancelled)): *Something you spent hours figuring out this week*
 
 ## 2019-11-07
 
@@ -170,28 +170,28 @@
 
 ## 2019-11-14
 
-- **David Dynerman**: *Something you spent hours figuring out this week*
+- **Cancelled**: *Something you spent hours figuring out this week*
 
 ## 2019-11-21
 
-- **Office Hours**: *Something you spent hours figuring out this week*
+- **Cancelled**: *Something you spent hours figuring out this week*
 
 ## 2019-11-28
 
-- **Jack Kamm**: *Something you spent hours figuring out this week*
+- **Thanksgiving** ([@Thanksgiving](https://github.com/Thanksgiving)): *Something you spent hours figuring out this week*
 
 ## 2019-12-05
 
-- **Office Hours**: *Something you spent hours figuring out this week*
+- **Jack Kamm**: *Differential RNA-seq analysis using limma in R*
 
 ## 2019-12-12
 
-- **Bing Wu**: *Something you spent hours figuring out this week*
+- **Office Hours**: *Something you spent hours figuring out this week*
 
 ## 2019-12-19
 
-- **Office Hours**: *Something you spent hours figuring out this week*
+- **Cancelled**: *Something you spent hours figuring out this week*
 
 ## 2019-12-26
 
-- **Eric Waltari**: *Something you spent hours figuring out this week*
+- **Cancelled**: *Something you spent hours figuring out this week*
